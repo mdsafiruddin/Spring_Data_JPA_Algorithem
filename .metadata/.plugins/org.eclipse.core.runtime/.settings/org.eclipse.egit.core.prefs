@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\Spring_Git_clone\\SpringBoot_DataJPA_FristApp\\.git;
-GitRepositoriesView.GitDirectories.relative=SpringBoot_DataJPA_FristApp\\.git;
+GitRepositoriesView.GitDirectories=D\:\\Spring_Git_clone\\.git;D\:\\Spring_Git_clone\\SpringBoot_DataJPA_FristApp\\.git;D\:\\Git_Practie\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;SpringBoot_DataJPA_FristApp\\.git;D\:\\Git_Practie\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
